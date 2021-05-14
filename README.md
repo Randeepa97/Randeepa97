@@ -7,7 +7,7 @@
 ![randeepa97](https://github-readme-stats.vercel.app/api/top-langs/?username=randeepa97&layout=compact&langs_count=6&theme=algolia)
 
 
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
